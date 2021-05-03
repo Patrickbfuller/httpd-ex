@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(78, 10, 10);
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, sans-serif
+}
+
+h1 {
+    color: rgb(230, 187, 0);
+}
+
+blockquote {
+    margin: auto;
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    border-style: double;
+    border-color: rgb(230, 187, 0);
+    border-width: 5px;
+    background-color: #444;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+
+    color: #fff;
+}
+
+td {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #000;
+    padding: 10px;
+    width: 40px;
+}
